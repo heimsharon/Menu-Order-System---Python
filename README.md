@@ -14,7 +14,7 @@ _A simple command-line restaurant ordering system for selecting menu items and g
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
-  - [Requirements](#requirements)
+  - [Prerequisite](#prerequisite)
   - [Getting Started](#getting-started)
   - [Data Structures](#data-structures)
   - [Example Output](#example-output)
@@ -43,7 +43,7 @@ _A simple command-line restaurant ordering system for selecting menu items and g
 
 ---
 
-## Requirements
+## Prerequisite
 
 -   [Python](https://www.python.org/) 3.x
     > You can download the latest version of Python from the [official website](https://www.python.org/downloads/).
