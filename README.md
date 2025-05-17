@@ -4,25 +4,25 @@ _A simple command-line restaurant ordering system for selecting menu items and g
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![Python 3.x](https://img.shields.io/badge/python-3.x-blue)
-
+![Student Project](https://img.shields.io/badge/student_project-s_heim-yellow)
 
 ---
 
 ## Table of Contents
 
-- [Menu Order System - Python](#menu-order-system---python)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Features](#features)
-  - [Prerequisite](#prerequisite)
-  - [Getting Started](#getting-started)
-  - [Data Structures](#data-structures)
-  - [Example Output](#example-output)
-  - [Notes](#notes)
-  - [License](#license)
-  - [Contributing, Support, and FAQ](#contributing-support-and-faq)
-  - [Acknowledgments](#acknowledgments)
-  - [Author](#author)
+-   [Menu Order System - Python](#menu-order-system---python)
+    -   [Table of Contents](#table-of-contents)
+    -   [Overview](#overview)
+    -   [Features](#features)
+    -   [Requirements](#requirements)
+    -   [Getting Started](#getting-started)
+    -   [Example Output](#example-output)
+    -   [Data Structures](#data-structures)
+    -   [Notes](#notes)
+    -   [License](#license)
+    -   [Contributing, Support, and FAQ](#contributing-support-and-faq)
+    -   [Acknowledgments](#acknowledgments)
+    -   [Author](#author)
 
 ---
 
@@ -43,11 +43,11 @@ _A simple command-line restaurant ordering system for selecting menu items and g
 
 ---
 
-## Prerequisite
+## Requirements
 
 -   [Python](https://www.python.org/) 3.x
-    > You can download the latest version of Python from the [official website](https://www.python.org/downloads/).
-    > The site also provides installation instructions for Windows, macOS, and Linux.
+    > Download from the [official website](https://www.python.org/downloads/).
+    > Installation instructions are available for Windows, macOS, and Linux.
 
 ---
 
@@ -65,15 +65,8 @@ _A simple command-line restaurant ordering system for selecting menu items and g
 3. **Follow the on-screen prompts to place your order.**
 
 > **Note:**
-> If you are viewing this project on GitHub, you can also download the repository as a ZIP file by clicking the green "Code" button and selecting "Download ZIP."
-> On GitHub, you can also browse the code online, view commit history, open issues, and submit pull requests.
-
----
-
-## Data Structures
-
--   **Menu:** Nested dictionary (`dict`) with categories as keys and sub-dictionaries of meals and prices
--   **Order:** List of dictionaries, each containing `"Item name"`, `"Price"`, and `"Quantity"`
+> On GitHub, you can also download the repository as a ZIP file by clicking the green "Code" button and selecting "Download ZIP."
+> You can browse the code online, view commit history, open issues, and submit pull requests.
 
 ---
 
@@ -106,6 +99,13 @@ Total price: $8.98
 
 ---
 
+## Data Structures
+
+-   **Menu:** Nested dictionary (`dict`) with categories as keys and sub-dictionaries of meals and prices
+-   **Order:** List of dictionaries, each containing `"Item name"`, `"Price"`, and `"Quantity"`
+
+---
+
 ## Notes
 
 -   The starter code section at the bottom of `order_system.py` is provided for learning and should not be modified.
@@ -116,7 +116,12 @@ Total price: $8.98
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](./LICENSE.txt).
+
+You are free to use, modify, and distribute this software for personal or commercial purposes, provided you include the original copyright
+and license notice in any copies or substantial portions of the software.
+
+See the [MIT License text](https://opensource.org/licenses/MIT) for full details.
 
 ---
 
