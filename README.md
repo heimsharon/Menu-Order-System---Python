@@ -4,27 +4,25 @@ _A simple command-line restaurant ordering system for selecting menu items and g
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![Python 3.x](https://img.shields.io/badge/python-3.x-blue)
-![Last Commit](https://img.shields.io/github/last-commit/heimsharon/menu-order-system-python)
-![Open Issues](https://img.shields.io/github/issues/heimsharon/menu-order-system-python)
-![Repo Size](https://img.shields.io/github/repo-size/heimsharon/menu-order-system-python)
+
 
 ---
 
 ## Table of Contents
 
--   [Menu Order System - Python](#menu-order-system---python)
-    -   [Table of Contents](#table-of-contents)
-    -   [Overview](#overview)
-    -   [Features](#features)
-    -   [Requirements](#requirements)
-    -   [Getting Started](#getting-started)
-    -   [Data Structures](#data-structures)
-    -   [Example Output](#example-output)
-    -   [Notes](#notes)
-    -   [License](#license)
-    -   [Contributing, Support, and FAQ](#contributing-support-and-faq)
-    -   [Acknowledgments](#acknowledgments)
-    -   [Author](#author)
+- [Menu Order System - Python](#menu-order-system---python)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Requirements](#requirements)
+  - [Getting Started](#getting-started)
+  - [Data Structures](#data-structures)
+  - [Example Output](#example-output)
+  - [Notes](#notes)
+  - [License](#license)
+  - [Contributing, Support, and FAQ](#contributing-support-and-faq)
+  - [Acknowledgments](#acknowledgments)
+  - [Author](#author)
 
 ---
 
